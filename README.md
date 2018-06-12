@@ -1,5 +1,5 @@
 
-# Behavioral Cloning - Carro Autõnomo
+# Behavioral Cloning - Carro Autônomo
 
 - O Desafio
     - Treinar um carro por redes neurais a dirigir autonomamente
