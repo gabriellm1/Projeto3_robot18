@@ -1,7 +1,7 @@
 
 # Behavioral Cloning - Carro Autõnomo
 
--O Desafio
+- O Desafio
     - Treinar um carro por redes neurais a dirigir autonomamente
     
     - Clonar o comportamento humano ao dirigir em um simulador
