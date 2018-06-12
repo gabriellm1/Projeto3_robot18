@@ -14,7 +14,7 @@
      - Repetir a coleta de dados usando o conhecimento adquirido na ultima iteração para melhorar o modelo
 
 - Slides 
-     - link drive
+     - https://drive.google.com/file/d/1e_WYCDOskzAshvbbWAJ4naQtvenSLVkR/view?usp=sharing
      
 - Vídeo
      - Link yt
